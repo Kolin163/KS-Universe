@@ -1,0 +1,34 @@
+[
+    {
+      "type": "title",
+      "name": "Risen Wrestling Championship",
+      "champion": "Kyle Cole",
+      "date_won": "19.04.2025 - Wrestlelution",
+      "previous_holders": ["Cletus Nox - 140 дней", "Babos - 190 дней", "Ivan Sokolov - 133 дня", "Clinton Lewis - 84 дня", "Azrael - 126 дней"],
+      "image": "cole.png"
+    },
+    {
+      "type": "title",
+      "name": "Risen Wrestling Internet Championship",
+      "champion": "Peter Bones",
+      "date_won": "19.04.2025 - Wrestlelution",
+      "previous_holders": ["Anvil - 252 дня", "Max Mann - 78 дней", "Peter Bones - 133 дня", "Alex Burg - 14 дней"],
+      "image": "bones.png"
+    },
+    {
+      "type": "contract",
+      "name": "Now or Never Contract",
+      "champion": "",
+      "date_won": "",
+      "previous_holders": ["Kyle Cole - удачная реализация", "Peter Bones - неудачная реализация"],
+      "image": "bones.png"
+    },
+    {
+      "type": "rttt",
+      "name": "Rising To The Top Tournament",
+      "champion": "",
+      "date_won": "",
+      "previous_holders": ["Malcolm Smoke", "Azrael"],
+      "image": "bones.png"
+    }
+  ]
